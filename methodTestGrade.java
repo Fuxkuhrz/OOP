@@ -10,7 +10,7 @@ public class methodTestGrade {
 		int i,j=0,k=1,m;
 		System.out.println("SIMPLE GRADE FINDER");
 		System.out.println("Please input your score each of subject...");
-		System.out.println("Press any key to continue. . .");
+		System.out.println("Press any key to continue . . .");
 		sc.nextLine();
 
 		
