@@ -5,14 +5,13 @@ public class methodTestGrade {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		Scanner pauser = new Scanner (System.in);
 		int[] score = new int[5];
 		String[] subject= {"Thai", "Math", "Art", "Programming", "Network"};
 		int i,j=0,k=1,m;
 		System.out.println("SIMPLE GRADE FINDER");
 		System.out.println("Please input your score each of subject...");
 		System.out.println("Press any key to continue. . .");
-		pauser.nextLine();
+		sc.nextLine();
 
 		
 		for(i=0;i<score.length;i++){
@@ -42,7 +41,7 @@ public class methodTestGrade {
 		
 		
 		
-	System.out.println("\n\n");
+		System.out.println("\n\n");
 	}
 	
 //------------------------------------------------------------
