@@ -10,8 +10,8 @@ public class methodTestGrade {
 		String[] subject= {"Thai", "Math", "Art", "Programming", "Network"};
 		int i,j=0,k=1,m;
 		System.out.println("SIMPLE GRADE FINDER");
-		System.out.println("Please in put your score each of subject...");
-		System.out.println("Press any key to continue..");
+		System.out.println("Please input your score each of subject...");
+		System.out.println("Press any key to continue. . .");
 		pauser.nextLine();
 
 		
